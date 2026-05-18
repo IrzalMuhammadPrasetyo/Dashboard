@@ -1,5 +1,8 @@
 import { Dashboard } from "@/components/dashboard/dashboard";
 
+export const revalidate = 0;
+export const dynamic = 'force-dynamic';
+
 export default function Home() {
   return (
     <main className="min-h-screen bg-muted/30">

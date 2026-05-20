@@ -12,6 +12,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: '/Dashboard', // Tambahkan ini sesuai nama repository
 
   /* HAPUS komentar pada baris basePath di bawah ini JIKA Anda ingin 
      mengakses via irzalmuhammadprasetyo.github.io/Dashboard/
